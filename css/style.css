@@ -2,3 +2,15 @@ div {
   height: 50px;
   border: 1px solid red;
 }
+
+
+nav {
+	background-color: #d9ea25;
+	position: fixed;
+	width:100%;
+	top: 0;
+}
+
+.top-sec {
+	margin-top: 90px;
+}
